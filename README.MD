@@ -43,7 +43,6 @@ Cada test crea una nueva instancia del navegador, navega al archivo HTML local y
 - Java 17+
 - Selenium WebDriver
 - JUnit 5
-- WebDriverManager (manejo automático del driver)
 - Gradle
 
 ---
